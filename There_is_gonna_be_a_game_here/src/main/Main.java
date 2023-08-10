@@ -15,7 +15,7 @@ public class Main {
 		//off resize
 		window.setResizable(false);
 		//set title
-		window.setTitle("2D Game..I guess?");
+		window.setTitle("2D Game..I guess??");
 		//add screenPanel (game)
 		window.add(screenPanel);
 		//size the window to fit size and layout of ScreenPanel
